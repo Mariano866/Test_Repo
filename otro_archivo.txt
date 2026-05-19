@@ -12,4 +12,4 @@ líneas de código líneas de código
 
 	salida de datos mod
 
-mas datos
+
