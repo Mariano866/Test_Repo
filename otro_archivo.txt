@@ -1,0 +1,15 @@
+otro_archivo
+
+datos datos datos
+
+mas datos mas datos
+
+líneas de código líneas de código
+
+	mas líneas de código
+	otra linea de código
+	otra linea mas de código
+
+	salida de datos mod
+
+mas datos
